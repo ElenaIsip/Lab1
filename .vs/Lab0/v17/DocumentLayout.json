@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Documents\\Lab0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA85E260-8AE2-49AF-A339-493E76CB1319}|..\\Lab4\\Lab4.vcxproj|C:\\Users\\student\\Documents\\Lab4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFF7CD1-014F-4D6F-B870-F69F2A4A0C8B}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{EDFF7CD1-014F-4D6F-B870-F69F2A4A0C8B}|C:\\Users\\student\\Documents\\Lab0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDFF7CD1-014F-4D6F-B870-F69F2A4A0C8B}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{EDFF7CD1-014F-4D6F-B870-F69F2A4A0C8B}|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94DDDAA-10CA-4A3F-8844-3DE2E9D7934C}|..\\Lab3\\Lab3.vcxproj|C:\\Users\\student\\Documents\\Lab3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D725C08C-11E1-4E24-A25B-25F3A6B9F49A}|..\\Lab2\\Lab2.vcxproj|C:\\Users\\student\\Documents\\Lab2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6085-4A36-4B16-B2CC-059527130603}|Lab0.vcxproj|C:\\Users\\student\\Documents\\Lab0\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D1F6085-4A36-4B16-B2CC-059527130603}|Lab0.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Lab0\\readme.txt",
+              "RelativeDocumentMoniker": "readme.txt",
+              "ToolTip": "C:\\Users\\student\\Documents\\Lab0\\readme.txt",
+              "RelativeToolTip": "readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-02T08:11:56.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Lab4\\Source.c",
+              "RelativeDocumentMoniker": "..\\Lab4\\Source.c",
+              "ToolTip": "C:\\Users\\student\\Documents\\Lab4\\Source.c",
+              "RelativeToolTip": "..\\Lab4\\Source.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-02T07:56:28.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Lab3\\Source.c",
+              "RelativeDocumentMoniker": "..\\Lab3\\Source.c",
+              "ToolTip": "C:\\Users\\student\\Documents\\Lab3\\Source.c",
+              "RelativeToolTip": "..\\Lab3\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-02T07:36:23.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Lab2\\Source.c",
+              "RelativeDocumentMoniker": "..\\Lab2\\Source.c",
+              "ToolTip": "C:\\Users\\student\\Documents\\Lab2\\Source.c",
+              "RelativeToolTip": "..\\Lab2\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-02T07:16:04.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Lab0\\Source.c",
+              "RelativeDocumentMoniker": "Source.c",
+              "ToolTip": "C:\\Users\\student\\Documents\\Lab0\\Source.c",
+              "RelativeToolTip": "Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-02T07:12:56.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
